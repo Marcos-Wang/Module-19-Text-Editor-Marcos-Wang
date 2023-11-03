@@ -14,7 +14,7 @@ You will deploy this full-stack application to Heroku using the [Heroku Deployme
 
 # Link to deployed application:
 
-[Heroku](https://arcane-savannah-61428-a9b222b43cab.herokuapp.com/)
+[Heroku]([https://arcane-savannah-61428-a9b222b43cab.herokuapp.com/](https://stark-beach-70060-2aa0807f2b71.herokuapp.com/))
 
 ## User Story
 
